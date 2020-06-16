@@ -1,1 +1,1 @@
-{"base": "7b823ac", "parent": "debian/foxy/phidgets_accelerometer", "previous": "08661da", "trim": "", "trimbase": ""}
+{"base": "78714f4", "parent": "debian/rolling/phidgets_accelerometer", "previous": "0e12591", "trim": "", "trimbase": ""}
