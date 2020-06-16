@@ -1,1 +1,1 @@
-{"base": "a1bf5e0", "parent": "debian/foxy/phidgets_analog_inputs", "previous": "21b3560", "trim": "", "trimbase": ""}
+{"base": "27bf49b", "parent": "debian/rolling/phidgets_analog_inputs", "previous": "2aa1bea", "trim": "", "trimbase": ""}
