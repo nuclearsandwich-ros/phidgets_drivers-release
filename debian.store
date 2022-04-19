@@ -1,1 +1,1 @@
-{"base": "f00493e1", "parent": "debian/rolling/phidgets_motors", "previous": "5fc237db", "trim": "", "trimbase": ""}
+{"base": "dceeac02", "parent": "debian/humble/phidgets_motors", "previous": "a057d439", "trim": "", "trimbase": ""}
