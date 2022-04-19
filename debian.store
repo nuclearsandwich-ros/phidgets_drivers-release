@@ -1,1 +1,1 @@
-{"base": "b5b66748", "parent": "debian/rolling/phidgets_spatial", "previous": "11c48bf6", "trim": "", "trimbase": ""}
+{"base": "dc118225", "parent": "debian/humble/phidgets_spatial", "previous": "89c8c84e", "trim": "", "trimbase": ""}
